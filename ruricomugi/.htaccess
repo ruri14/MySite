@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteBase /
+	RewriteRule ^$ http://ruricomugi.com/photo/index.html [R=301,L]
+</IfModule>
