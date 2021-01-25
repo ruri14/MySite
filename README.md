@@ -2,4 +2,4 @@
 
 ruricomugiの個人サイトです↓
 
-ruricomugi.com
+https://ruricomugi.com
